@@ -1,5 +1,7 @@
 from __future__ import print_function
 
+# What's up my dudes?
+
 ##### 
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
