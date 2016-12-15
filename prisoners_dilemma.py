@@ -5,6 +5,7 @@ from __future__ import print_function
 # PLTW AP CS Principles
 # (c)2014 Project Lead The Way, Inc.
 #
+################################################################HENRY GREEN HERE
 # Activity 1.3.9 Tools for Collaboration
 # Project 1.3.10 Collaborating on a ProjectAAAAAHHHHHHHH
 # 
@@ -19,7 +20,7 @@ from __future__ import print_function
 # to both players. 
 #
 # play_tournament([team0, team1, team2]) executes a tournament and writes to tournament.txt
-#
+# 
 # Each team's strategy should be coded in their assigned Python file, called a module.
 # Each player should have their own .py file containing 
 # three strings team_name, strategy_name, and strategy_description
@@ -38,6 +39,7 @@ import example4, example5, example6, example7
 import team0, team1, team2, team3, team4
 import team5, team6, team7, team8, team9
 import team10, team11, team12, team13, team14
+team_name = 'Meme Team Dream Team'
 betray = example1
 collude = example0
 
