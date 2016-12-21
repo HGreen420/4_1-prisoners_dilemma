@@ -22,5 +22,4 @@ def move(my_history, their_history, my_score, their_score):
         opponent = globe.pn[1]
     else:
         opponent = globe.pn[0]
-    print('Opponents Move: '+str(globe.omoves))
     return 'b'       

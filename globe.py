@@ -19,7 +19,7 @@ def globe_run():
     global run
     global omoves
     global globe_change
-    if run >= 4:
+    if run >= 6:
         run = 0
         globe_change = 'true'
         omoves = 'c'
